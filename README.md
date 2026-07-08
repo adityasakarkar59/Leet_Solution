@@ -26,6 +26,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -36,6 +37,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
