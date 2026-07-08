@@ -27,6 +27,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -121,4 +123,5 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
+| [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
