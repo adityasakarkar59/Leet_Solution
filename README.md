@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
