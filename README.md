@@ -132,5 +132,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
