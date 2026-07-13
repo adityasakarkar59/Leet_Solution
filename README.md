@@ -104,6 +104,7 @@
 | [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1789-primary-department-for-each-employee) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Divide and Conquer
 |  |
 | ------- |
