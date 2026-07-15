@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [1164-product-price-at-a-given-date](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1164-product-price-at-a-given-date) |
+| [1174-immediate-food-delivery-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1174-immediate-food-delivery-ii) |
 | [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1789-primary-department-for-each-employee) |
