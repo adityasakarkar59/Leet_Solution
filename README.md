@@ -117,6 +117,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -145,6 +146,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -152,6 +154,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
