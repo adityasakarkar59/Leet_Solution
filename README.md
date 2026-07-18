@@ -110,6 +110,7 @@
 ## Database
 |  |
 | ------- |
+| [0607-sales-person](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0607-sales-person) |
 | [1164-product-price-at-a-given-date](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1174-immediate-food-delivery-ii) |
 | [1693-daily-leads-and-partners](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1693-daily-leads-and-partners) |
