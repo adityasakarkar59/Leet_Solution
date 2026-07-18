@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0238-product-of-array-except-self) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
