@@ -110,6 +110,7 @@
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0607-sales-person) |
 | [1084-sales-analysis-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1084-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1164-product-price-at-a-given-date) |
