@@ -12,6 +12,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2652-sum-multiples) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -37,6 +38,7 @@
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
