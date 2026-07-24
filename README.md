@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -204,4 +205,12 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1114-print-in-order) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
