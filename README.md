@@ -114,6 +114,7 @@
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
+| [1844-replace-all-digits-with-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1844-replace-all-digits-with-characters) |
 | [2299-strong-password-checker-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2299-strong-password-checker-ii) |
 ## Sorting
 |  |
