@@ -10,6 +10,7 @@
 | [0263-ugly-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2652-sum-multiples) |
@@ -30,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0930-binary-subarrays-with-sum) |
@@ -117,6 +119,7 @@
 | [0015-3sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
