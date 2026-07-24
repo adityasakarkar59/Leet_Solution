@@ -113,6 +113,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
+| [2299-strong-password-checker-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2299-strong-password-checker-ii) |
 ## Sorting
 |  |
 | ------- |
