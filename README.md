@@ -103,6 +103,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -121,6 +122,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
 | [1844-replace-all-digits-with-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1844-replace-all-digits-with-characters) |
 | [2299-strong-password-checker-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2299-strong-password-checker-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
