@@ -28,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0238-product-of-array-except-self) |
@@ -88,6 +89,7 @@
 | [0001-two-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
@@ -123,6 +126,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
