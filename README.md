@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0930-binary-subarrays-with-sum) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
