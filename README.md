@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
@@ -160,6 +161,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -176,6 +178,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
