@@ -1,9 +1,7 @@
-SELECT DISTINCT num AS ConsecutiveNums
-FROM (
-    SELECT 
-        num,
-        LEAD(num, 1) OVER (ORDER BY id) AS next_1,
-        LEAD(num, 2) OVER (ORDER BY id) AS next_2
-    FROM Logs
-) AS NumberStreaks
-WHERE num = next_1 AND num = next_2;
+SELECT DISTINCT l1.num AS ConsecutiveNums
+FROM Logs l1
+JOIN Logs l2 
+    ON l2.id = l1.id + 1
+JOIN Logs l3 
+    ON l3.id = l1.id + 2
+WHERE l1.num = l2.num  AND l2.num = l3.num;
