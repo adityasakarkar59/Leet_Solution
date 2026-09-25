@@ -145,6 +145,7 @@
 | [0180-consecutive-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0585-investments-in-2016) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0626-exchange-seats) |
 | [1084-sales-analysis-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1084-sales-analysis-iii) |
