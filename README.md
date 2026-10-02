@@ -38,6 +38,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -142,6 +143,7 @@
 | [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -186,6 +188,7 @@
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
