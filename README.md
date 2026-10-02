@@ -133,6 +133,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1844-replace-all-digits-with-characters) |
 | [2299-strong-password-checker-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2299-strong-password-checker-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
