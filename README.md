@@ -49,6 +49,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3866-first-unique-even-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3866-first-unique-even-element) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0917-reverse-only-letters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0917-reverse-only-letters) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
