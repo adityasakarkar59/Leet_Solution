@@ -17,6 +17,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
