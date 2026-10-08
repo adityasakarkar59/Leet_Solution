@@ -11,6 +11,7 @@
 | [0292-nim-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2652-sum-multiples) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0137-single-number-ii) |
+| [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
@@ -280,4 +282,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
