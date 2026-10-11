@@ -46,6 +46,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
@@ -63,6 +64,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
+| [1539-kth-missing-positive-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
