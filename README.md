@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0209-minimum-size-subarray-sum) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -275,6 +277,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0055-jump-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
