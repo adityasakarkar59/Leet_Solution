@@ -14,6 +14,7 @@
 | [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2652-sum-multiples) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -50,6 +51,7 @@
 | [1539-kth-missing-positive-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
