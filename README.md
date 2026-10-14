@@ -108,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +132,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
@@ -150,6 +152,7 @@
 | [0016-3sum-closest](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0389-find-the-difference) |
 | [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3513-number-of-unique-xor-triplets-i) |
