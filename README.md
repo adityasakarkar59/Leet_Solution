@@ -40,6 +40,7 @@
 | [0238-product-of-array-except-self](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0905-sort-array-by-parity) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0682-baseball-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -265,6 +267,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
