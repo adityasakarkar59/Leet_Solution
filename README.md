@@ -141,6 +141,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1208-get-equal-substrings-within-budget) |
 | [1844-replace-all-digits-with-characters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1844-replace-all-digits-with-characters) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0682-baseball-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3498-reverse-degree-of-a-string) |
