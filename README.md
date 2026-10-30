@@ -53,6 +53,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2540-minimum-common-value) |
@@ -309,4 +310,8 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
