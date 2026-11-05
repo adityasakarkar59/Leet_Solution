@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -48,6 +49,7 @@
 | [0905-sort-array-by-parity](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0930-binary-subarrays-with-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -164,6 +166,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0055-jump-game) |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -322,4 +326,12 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
