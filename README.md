@@ -147,6 +147,7 @@
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0917-reverse-only-letters) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0459-repeated-substring-pattern) |
 ## Number Theory
 |  |
 | ------- |
@@ -334,4 +336,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0976-largest-perimeter-triangle) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/adityasakarkar59/Leet_Solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
