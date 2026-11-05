@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0672-bulb-switcher-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -48,6 +49,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1004-max-consecutive-ones-iii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/adityasakarkar59/Leet-code-patternwise/tree/master/1672-richest-customer-wealth) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/adityasakarkar59/Leet_Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
